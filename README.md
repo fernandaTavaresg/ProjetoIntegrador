@@ -41,3 +41,7 @@ GRUPO:
     Produção do slide               :p1, 2022-08-17, 7d
     Ensaio da apresentação          :p2, 2022-08-22, 7d   
 ``` 
+
+## Conhecimentos das disciplinas que serão utilizados
+
+
