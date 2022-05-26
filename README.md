@@ -8,7 +8,7 @@ GRUPO:
 
        - FERNANDA BEATRIZ TAVARES GOMES
 
-       - POLIANA DE ARAUJJO PEREIRA
+       - POLIANA DE ARAUJO PEREIRA
 
        - JONATHAN LEONCIO DE SOUZA LIRA
        
@@ -43,5 +43,11 @@ GRUPO:
 ``` 
 
 ## Conhecimentos das disciplinas que serão utilizados
+
+### Desenvolvimento de Dispositivos Móveis
+
+### Programação para Internet das Coisas
+
+### Teste de Software 
 
 
