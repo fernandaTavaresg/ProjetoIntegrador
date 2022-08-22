@@ -26,20 +26,20 @@ GRUPO:
     section Documento
     Pré-projeto             :a1, 2022-05-17, 15d
     Documentação inicial    :a2,2022-06-02 , 30d
-    Documento final         :a3,2022-07-02, 35d
+    Documento final         :a3,2022-07-02, 45d
     section Desenvolvimento
-    Criação do protótipo de telas   :c2,2022-06-10, 10d
-    Construção de telas iniciais    :c3,2022-06-22, 15d
-    Aplicativo final                :c4,2022-07-05, 30d
+    Criação do protótipo de telas   :c2,2022-06-10, 13d
+    Construção de telas iniciais    :c3,2022-06-22, 18d
+    Aplicativo final                :c4,2022-07-20, 30d
      section Dispositivo
-    Criação do protótipo            :c2,2022-06-12  , 20d
-    Implementação                   :c3,2022-07-02  , 28d
+    Criação do protótipo            :c2,2022-06-20  , 20d
+    Implementação                   :c3,2022-07-20  , 28d
        section Testes
-    Testes na aplicação             :c2, 2022-07-28, 6d
-    Melhorias necessárias           :c3,2022-08-03, 6d
+    Testes na aplicação             :c2, 2022-08-15, 9d
+    Melhorias necessárias           :c3,2022-08-18, 9d
     section Apresentação
-    Produção do slide               :p1, 2022-08-09, 5d
-    Ensaio da apresentação          :p2, 2022-08-14, 5d   
+    Produção do slide               :p1, 2022-08-18, 9d
+    Ensaio da apresentação          :p2, 2022-08-22, 8d   
 ``` 
 
 ## Conhecimentos para o Desenvolvimento
